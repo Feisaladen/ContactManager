@@ -21,6 +21,7 @@ else:
     if contact_access in contact:
         print(contact[contact_access])
     else: 
-        print(f"{contact_acess} was not found ")
+        print(f"{contact_access} was not found ")
     
+
 
